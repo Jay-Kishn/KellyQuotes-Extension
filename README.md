@@ -8,5 +8,5 @@ This extension allows you to replace every image in a webpage and all the titles
 3.Turn on Developer Mode.\
 4.Click on Load Unpacked Option.\
 5.Navigate and load.\
-6.Refresh the page for the extension to take effect.\
+6.Refresh the page for the extension to take effect.
 
