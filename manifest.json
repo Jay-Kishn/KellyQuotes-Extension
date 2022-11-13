@@ -1,0 +1,32 @@
+{
+    "name": "Kelly Quotes Bot ",
+    "description": "An extension to replace every picture in the page with Kelly Kapoor from 'The Office' ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts":[
+        {
+            "matches": ["<all_urls>"],
+            "js" : ["Content.js"]
+        }
+    ],
+    "web_accessible_resources": [{ 
+        "resources": [ "2.jpg",
+        "1.jpg",
+        "3.png",
+        "4.jpg",
+        "5.jpg",
+        "6.jpg",
+        "7.jpg"
+     ],
+  "matches": ["<all_urls>"]
+    }], 
+    "action": {
+        "default_popup": "popup.html" 
+    },
+    "icons": {
+           "128": "/images1/128x128.png"
+    }
+}
+
+
+
