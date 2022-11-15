@@ -1,6 +1,6 @@
-# Nicki-Minaj-Chrome-Extension
+# Kelly-Quotes-Chrome-Extension
 
-This extension allows you to replace every image in a webpage and all the titles of YouTube videos with images of pop star Nicki Minaj and famous meme quotes of her.
+This extension allows you to replace every image in a webpage and all the titles of YouTube videos with images of Kelly Kapoor and famous quotes of her.
 
 ## How to use
 1.Download the folder onto your local machine.\
